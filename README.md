@@ -3,6 +3,7 @@
 Demo:
 
 [![Image Steganography Tool](https://img.youtube.com/vi/465CsW1IRT0/0.jpg)](https://www.youtube.com/watch?v=465CsW1IRT0)
+
 This Java program allows users to either extract a hidden image from a given BMP file or embed a secret image into a public BMP file. The program uses the `BMPIO` and `Steganography` classes for reading and writing BMP files and performing steganography operations.
 
 ## Features
